@@ -3,5 +3,5 @@
 
 # To-Do list
 - [x] Start working on it.
-- [ ] Publish it.
+- [x] Publish it.
 - [ ] Update it every while.
